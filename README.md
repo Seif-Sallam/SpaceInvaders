@@ -1,3 +1,3 @@
-# RayLib Template
+# Space Invaders
 
-This is a template of the projects I shall create with raylib.
+There is nothing to be said about it. It is space invaders.
