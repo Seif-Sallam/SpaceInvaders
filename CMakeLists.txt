@@ -14,7 +14,7 @@ CPMAddPackage(
 	GIT_TAG 5.0
 )
 
-set(PROJECT_NAME Template)
+set(PROJECT_NAME SpaceInvaders)
 
 project(
 	${PROJECT_NAME}
